@@ -10,7 +10,7 @@
 
 Hi, I'm João 
 
-🎓 Finishing Bachelor's degree in Software Engineering (2017 - )
+🎓 Bachelor's degree in Software Engineering (2017 - 2023)
 
 🎓 Started Master's degree in Software Engineering (2022 - )
 
