@@ -2,7 +2,7 @@
   <img src=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif width="350" height="250"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-freitas-9641b0208/">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-freitas-9641b0208/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=virdze&style=flat-square&color=blue" alt=""/>
