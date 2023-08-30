@@ -16,7 +16,9 @@ Hi, I'm João.
 
 Currently studying/interested:
 
-  -> Front-End
+  -> Back-End Development
+
+  -> Front-End Development
   
   -> Machine Learning 
 
