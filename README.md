@@ -14,7 +14,9 @@ Hi, I'm João.
 
 🎓 Started Master's degree in Software Engineering (Present)
 
-Currently studying Front-End and working towards Full Stack Development.
+Currently studying/interested:
+  -> Front-End
+  -> Machine Learning 
 
 
 
