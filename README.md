@@ -8,11 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=virdze&style=flat-square&color=blue" alt=""/>
 </div>
 
-Hi, I'm João
+Hi, I'm João.
 
 🎓 Bachelor's degree in Software Engineering (2023)
 
 🎓 Started Master's degree in Software Engineering (Present)
+
+Currently studying Front-End and working towards Full Stack Development.
 
 
 
