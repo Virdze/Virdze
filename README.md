@@ -8,7 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=virdze&style=flat-square&color=blue" alt=""/>
 </div>
 
-Hi, I'm João.
+Hi, I'm João. I'm currently a Junior Consultant working for a UK-based energy company. In my role, I focus on both backend development, using Java and Apex, and frontend development with JavaScript. I contribute to building and enhancing our applications, ensuring they function smoothly across all levels. I also manage code versions through GitHub, collaborating with the team to maintain high standards and implement new features.
+Even though I've been with the company for less than a year, I've already stepped up to lead deployments in the absence of our Release Manager or senior team members. My responsibilities include resolving critical production issues, developing new features, and working closely with clients to ensure our solutions meet their needs.
 
 🎓 Bachelor's degree in Software Engineering (2023)
 
@@ -20,7 +21,7 @@ Currently studying/interested:
 
   -> Front-End Development
   
-  -> Machine Learning 
+  -> Machine Learning/AGI
 
 
 
